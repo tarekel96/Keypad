@@ -1,4 +1,9 @@
 # Keypad
+## Student Info
+- Student ID: 1902662
+- Student Name: Tarek El-Hajjaoui
+- Course Number: CPSC 236 - 03
+- Assignment: Keypad
 
 ## Description of Program:
 - A C# Program that creates a safe lock interface that takes inputs from a user
