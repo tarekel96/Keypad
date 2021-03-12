@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{30163DDF-86D6-3072-873D-E7B14A439AD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CombinationLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/KeypadButton.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Keypad.cs" Line="50" Column="6" />
+      <File FileName="Assets/Scripts/Combination.cs" Line="17" Column="28" />
+      <File FileName="Assets/Scripts/KeypadBackground.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/CombinationLoader.cs" Line="35" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Keypad" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="40cfd3e8-d190-402d-a63d-80d74ea41340" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
